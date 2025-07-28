@@ -43,11 +43,11 @@ Saint Giri Sr. Sec. School, Delhi
 
 ---
 
-## Experience
+<!-- ## Experience
 
 While I have not yet completed a formal internship, I have actively worked on real-world web development projects through academic coursework and personal initiatives. I am eager to apply my skills in Python, JavaScript, React.js, and MongoDB in professional settings and am open to internships that offer opportunities in full-stack development, front-end engineering, and collaborative tech projects.
 
----
+---   -->
 
 ## Soft Skills
 
