@@ -2,7 +2,7 @@
 
 **Email:** arunvashisth80@gmail.com  
 **GitHub:** [Arun](https://github.com/ArunVashisth)  
-**LinkedIn:** [Arun Vashisth](https://www.linkedin.com/in/arun-vashisth)  
+**LinkedIn:** [Arun Vashisth](https://www.linkedin.com/in/arun-vashisth-27b6a9362/)  
 **Portfolio** [Arun Vashisth](https://portfolio-five-sigma-yvjym7mfdi.vercel.app/)
 ---
 
